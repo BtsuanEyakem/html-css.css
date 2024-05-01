@@ -30,7 +30,7 @@ a:link{
 a:hover{
     color: rgb(162, 18, 138);
 }
-ul{
+li{
     list-style-type: circle;
 }
 body{
