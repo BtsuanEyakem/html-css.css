@@ -1,0 +1,45 @@
+h1{
+    color: rgb(17, 44, 132);
+    font-weight: bolder;
+}
+span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: 600;
+}
+#table{
+    margin: 2%;
+    /*text-align: right;*/
+    list-style-type: circle;
+    font-style: italic;
+}
+h3{
+    margin: 2%;
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    
+}
+.movies{
+   
+    list-style-type: decimal;
+}
+a:link{
+    color: rgb(8, 8, 129);
+}
+a:hover{
+    color: rgb(162, 18, 138);
+}
+ul.li{
+    list-style-type: circle;
+}
+body{
+    margin: 20px; 
+    border: 1px solid black; 
+    background-color: #7a6767; 
+    box-sizing: border-box; 
+    
+}
+/*a:visited{
+    color: cyan;
+}*/
