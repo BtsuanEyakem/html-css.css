@@ -23,6 +23,7 @@ h3{
 .movies{
    
     list-style-type: decimal;
+    list-style-type: circle;
 }
 a:link{
     color: rgb(8, 8, 129);
@@ -30,9 +31,7 @@ a:link{
 a:hover{
     color: rgb(162, 18, 138);
 }
-li{
-    list-style-type: circle;
-}
+
 body{
     margin: 20px; 
     border: 1px solid black; 
